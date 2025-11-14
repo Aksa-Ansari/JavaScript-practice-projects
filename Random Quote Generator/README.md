@@ -14,10 +14,10 @@ Users can also share their favorite quotes on Twitter with one click.
 
 ## Technologies Used
 
-- HTML5 – Structure of the web page  
-- CSS3 – Styling and responsive design  
-- JavaScript(ES6) – Logic and API handling  
-- Fetch API – To get random quotes from an external API
+- HTML5 Structure of the web page  
+- CSS3 Styling and responsive design  
+- JavaScript(ES6) Logic and API handling  
+- Fetch API To get random quotes from an external API
 
   ## Live Demo
   You can view the live version of the project here:
