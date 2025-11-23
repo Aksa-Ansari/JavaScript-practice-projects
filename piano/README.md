@@ -17,4 +17,9 @@ Click any key to play its sound — clean, easy, and beginner-friendly.
 - JavaScript (ES6)  
 - Audio API  
 
+  ## Live Demo
+  You can view the live version of the project here:
+👉 [View Project](https://piano-by-aksa.netlify.app/)
+
+
 ### Made with ❤️ By [Aksa Ansari](https://github.com/Aksa-Ansari)
